@@ -44,8 +44,26 @@ Within that ios folder there is a xcode project directory that needs to be used.
 ## Start the app
 
 To start the app, just click on the start button.
+
 ![MacDown logo](./doc/start-app.png)
 
 By default the emulator is used with the current iPhone mobile phone. The emulated device can be changed using the dropbox on the top of the window.
+
 ![MacDown logo](./doc/choose-phone.png)
+
+## Show Message in Log after start
+
+To check also in the Log, if the app was started, it is possible to add the following line into the file "AppDelegate.m"
+
+> NSLog(@"Cordova app started");
+
+![MacDown logo](./doc/appdelegate-project-tree.png)
+
+## Debug app
+
+There are different ways to debug the app.
+
+### Use the xcode debugger
+
+### Remote debug in browser
 

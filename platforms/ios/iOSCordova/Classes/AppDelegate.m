@@ -33,6 +33,10 @@
 - (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSDictionary*)launchOptions
 {
     self.viewController = [[MainViewController alloc] init];
+    
+    //print out log
+    NSLog(@"Cordova app started");
+    
     return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
 

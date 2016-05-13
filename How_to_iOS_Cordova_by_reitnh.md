@@ -64,6 +64,13 @@ To check also in the Log, if the app was started, it is possible to add the foll
 There are different ways to debug the app.
 
 ### Use the xcode debugger
+1. First open XCode and the Cordova project (located in platforms/ios)
+2. Create a breakpoint
+3. Run the program in XCode
+4. Programm stops when reaching the breakpoint
 
 ### Remote debug in browser
+1. Open the browser e.g. Safari
+2. Go to Menu/Develop/Simulator/index.html
+3. Use Safari developer tools to debug the code
 

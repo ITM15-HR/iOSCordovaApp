@@ -59,6 +59,21 @@ To check also in the Log, if the app was started, it is possible to add the foll
 
 ![MacDown logo](./doc/appdelegate-project-tree.png)
 
+## Change the HTML and JavaScript
+
+### HTML
+Change the file located in _www/index.html_ like that:
+<div>
+    <h1>My Cordova iOS App</h1>
+    ITM15-HR
+</div>
+
+### JavaScript
+Change the file located in _www/js/index.js_
+
+Here you can put any related Java code that might use you plug-ins.
+
+
 ## Debug app
 
 There are different ways to debug the app.

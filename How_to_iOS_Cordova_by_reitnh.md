@@ -70,7 +70,7 @@ Change the file located in _www/index.html_ like that:
 </div>
 ```
 
-![MacDown logo](./doc/cordova_html.png)
+![MacDown logo](./doc/cordova-html.png)
 
 ### JavaScript
 Change the file located in _www/js/index.js_

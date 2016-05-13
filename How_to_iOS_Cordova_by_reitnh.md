@@ -77,6 +77,12 @@ Change the file located in _www/js/index.js_
 
 Here you can put any related Java code that might use you plug-ins.
 
+## Performance
+
+The performance of the app can be analysed via Instruments.  
+Just right click on XCode/Open/Developer/Tool/Instruments
+
+![MacDown logo](./doc/performance.png)
 
 ## Debug app
 

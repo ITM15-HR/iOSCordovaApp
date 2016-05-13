@@ -63,11 +63,12 @@ To check also in the Log, if the app was started, it is possible to add the foll
 
 ### HTML
 Change the file located in _www/index.html_ like that:
-
-> <div>
->    <h1>My Cordova iOS App</h1>
->    ITM15-HR
-> </div>
+```
+<div>
+  <h1>My Cordova iOS App</h1>
+  ITM15-HR
+</div>
+```
 
 ### JavaScript
 Change the file located in _www/js/index.js_
